@@ -1,0 +1,35 @@
+要学习 grunt或者gulp~~webpack和sass  wenpack是打包工具
+事件流  包括：捕获和冒泡
+一定要准备node.js  es6
+js的原型链
+
+HTTP管线化和持久链接
+什么是双核浏览器优先渲染<meta name="renderer" content="webkit">
+dns预解析
+雅虎军规~~
+不要把script放进head中
+异步加载
+模块加载机制 request.js  c.js模块化~~
+模板引擎~~模板引擎处理方式
+
+
+技术栈：
+jQuery  --》源码  核心架构  事件委托  插件机制  兼容性（看博客和文章，找浏览量比较大的，认真看）
+vue.js  react.js  angular.js  mvvm 吃透其中之一（阿里经常问vue的问题，多看博客，分析精透）静态语法检查
+node.js 
+
+前端工程：
+sass less 预编译语言必须用到的，要准备
+gulp和grunt精通一个gulp有限
+npm至少了解一下
+browserfy和webpack 打包必用
+
+如果有开源项目，GitHub最好，可以写在简历上
+
+跨域通信  jsonp hash  WebSocket  CORS postMessage
+安全类 CSRF XSS
+算法 排序  堆栈、队列、链表   递归   波兰式和逆波兰式
+渲染机制  重排Reflow  重绘Repaint
+页面性能 ==》 资源压缩  异步加载  浏览器缓存  CDN   预解析DNS 
+浏览器缓存分  强缓存和协商缓存 要学习一下
+错误监控  错误上报用ajax和img
